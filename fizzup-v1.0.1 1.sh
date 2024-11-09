@@ -3,7 +3,7 @@
 clear
 BINARY_NAME="fizz"
 VERSION="latest"
-FIZZUP_VERSION="v1.0.1"
+FIZZUP_VERSION="v1.1.2"
 
 # Fizz variables
 GATEWAY_ADDRESS="provider.vycod.com" # Provider domain: example = provider.devnetcsphn.com
